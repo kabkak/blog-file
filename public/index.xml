@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>L1nSn0w</copyright>
-        <lastBuildDate>Thu, 23 May 2024 15:30:51 +0800</lastBuildDate><atom:link href="https://blog.linsnow.cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 23 May 2024 16:10:34 +0800</lastBuildDate><atom:link href="https://blog.linsnow.cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>XXXX</title>
+        <link>https://blog.linsnow.cn/p/xxxx/</link>
+        <pubDate>Thu, 23 May 2024 16:10:34 +0800</pubDate>
+        
+        <guid>https://blog.linsnow.cn/p/xxxx/</guid>
+        <description>&lt;img src="https://blog.linsnow.cn/post/cover.png" alt="Featured image of post XXXX" /&gt;</description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>https://blog.linsnow.cn/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
